@@ -1,0 +1,25 @@
+An Application that will record and total the score
+
+Vision: An application that will help the scorer in their job
+
+Mission: Create an application that will record and display the score
+
+Feature:
+    Record score,total score, display score - it will record, total,  display the score of each team
+     
+
+ User story:
+     As a user, I want to record ,total, and display the score of each team.
+
+ Use case:
+Name: Record the score
+Description: It will record the score of each team
+Actor: User
+Pre-Conditions:it has two teams
+Post-Conditions: the user will be able to record the score
+Main Course:
+1. the user will input the score 
+2. the system will record the score
+3. the system will total the score
+4. the system will display the score
+ 
